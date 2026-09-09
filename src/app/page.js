@@ -14,8 +14,12 @@ export default function Home() {
       <Navbar />
 
       <main id="home" className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 sm:pt-28 pb-12 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center overflow-x-hidden">
-        <Hero />
-        <IdBadgeCard />
+        <div className="order-2 lg:order-1 lg:col-span-7 min-w-0">
+          <Hero />
+        </div>
+        <div className="order-1 lg:order-2 lg:col-span-5 min-w-0 w-full">
+          <IdBadgeCard />
+        </div>
       </main>
 
       <TechTicker />
