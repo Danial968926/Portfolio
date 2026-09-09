@@ -31,6 +31,12 @@ export default function IdBadgeCard() {
 
         <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-[10px] font-mono text-slate-400">
           <span className="font-semibold text-slate-700">DM-2026-DEV</span>
+          <div className="flex items-end gap-1 h-4">
+                <div className="w-1 h-2/3 bg-slate-400"></div>
+                <div className="w-1 h-full bg-slate-300"></div>
+                <div className="w-1 h-1/2 bg-slate-400"></div>
+                <div className="w-1 h-3/4 bg-slate-300"></div>
+              </div>
           <span className="px-2 py-0.5 rounded bg-slate-100 text-slate-600 font-sans font-medium text-[10px]">
             React & ASP.NET Core
           </span>
