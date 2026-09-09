@@ -17,7 +17,7 @@ const projects = [
     },
     {
         title: "Final Year Defense Project",
-        subtitle: "React Native Mobile App",
+        subtitle: "WorkMate",
         period: "Sept 2025 – June 2026",
         description:
             "Built a React Native mobile application for short-term jobs and micro-task management.",

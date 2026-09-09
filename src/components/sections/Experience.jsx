@@ -29,18 +29,18 @@ const experiences = [
             "Connected client-side interfaces with backend services to build reliable full-stack features.",
         ],
     },
-    {
-        role: "SEO & Digital Outreach",
-        company: "Freelance / Collaborative Projects",
-        location: "Remote",
-        period: "2025 – Present",
-        points: [
-            "Collaborated with peers on SEO strategy development, keyword research, and on-page optimization.",
-            "Successfully acquired two clients through outreach, pitching, and portfolio presentation.",
-            "Assisted in improving website visibility, search rankings, and organic traffic growth.",
-            "Coordinated with clients to understand business goals and align SEO efforts accordingly.",
-        ],
-    },
+    // {
+    //     role: "SEO & Digital Outreach",
+    //     company: "Freelance / Collaborative Projects",
+    //     location: "Remote",
+    //     period: "2025 – Present",
+    //     points: [
+    //         "Collaborated with peers on SEO strategy development, keyword research, and on-page optimization.",
+    //         "Successfully acquired two clients through outreach, pitching, and portfolio presentation.",
+    //         "Assisted in improving website visibility, search rankings, and organic traffic growth.",
+    //         "Coordinated with clients to understand business goals and align SEO efforts accordingly.",
+    //     ],
+    // },
 ];
 
 export default function Experience() {

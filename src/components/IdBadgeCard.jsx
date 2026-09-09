@@ -19,9 +19,9 @@ export default function IdBadgeCard() {
           <div className="absolute -bottom-10 left-1/2 -translate-x-1/2">
             <div className="relative w-25 h-25 rounded-full border-2 border-white shadow-md overflow-hidden bg-slate-200">
               <img
-                src="/images/img3"
+                src="/images/img1.jpeg"
                 alt="M.Danial Mushtaq"
-                className="w-full h-full object-cover object-top scale-130 -translate-x-1"
+                className="w-full h-full object-cover object-center scale-130 -translate-x-0"
               />
             </div>
           </div>
