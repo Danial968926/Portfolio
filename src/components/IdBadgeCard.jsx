@@ -8,12 +8,12 @@ export default function IdBadgeCard() {
 
       {/* ------------------- MOBILE VIEW (Sleek Horizontal Card) ------------------- */}
       <div className="block lg:hidden w-full max-w-md bg-white/90 backdrop-blur-md rounded-2xl p-5 border border-slate-200/80 shadow-lg">
-        <div className="flex items-center justify-center gap-4 w-full">
+        <div className="flex items-center justify-center gap-6 w-full">
           <div className="relative w-20 h-20 rounded-full border-2 border-indigo-500/20 p-0.5 shrink-0 bg-slate-100">
             <img
               src="/images/img1.jpeg"
               alt="M.Danial Mushtaq"
-              className="w-full h-full object-cover object-top rounded-full scale-110"
+              className="w-full h-full object-cover object-top rounded-full scale-130"
             />
             <span className="absolute bottom-0 right-0 w-3.5 h-3.5 bg-emerald-500 border-2 border-white rounded-full" />
           </div>
