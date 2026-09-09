@@ -15,7 +15,7 @@ export default function IdBadgeCard() {
               alt="M.Danial Mushtaq"
               className="w-full h-full object-cover object-top rounded-full scale-130"
             />
-            <span className="absolute bottom-0 right-0 w-3.5 h-3.5 bg-emerald-500 border-2 border-white rounded-full" />
+            <span className="absolute -bottom-1.5 -right-0 w-3.5 h-3.5 bg-emerald-500 border-2 border-white rounded-full" />
           </div>
 
           <div className="flex flex-col items-start justify-center text-left">
